@@ -1,5 +1,5 @@
 # merge-together
-This 
-Is 
-Real 
+That
+Is
+Real
 Text
